@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - click
+  - Button
+  - cli
+  - new_cam
+  - btn
+  - Simple_Animation
+  - Screen_play
+  - Rope
+  - ceiling_fan
+  - Song
+  - Glowing
+  - Pick_up_sound
+  - fading
+  - Sitting_Room
+  - Ceiling_Fan_Button
+  - Rope_Button
+  - Socket_Button
+  - Shotgun_Button
+  - Left_Button
+  - Right_Button
+  - Hint_Button
+  - Toaster_Button
+  - Knife_Button
+  - Fork_Button
+  - Socket_Vid
+  - fading_Plug
+  - Kitchen_Objects
+  - Fade_All
+  - Pill_Button
+  - Glass_Button
+  - Tub_Button
+  - Bathroom_Objects
+  - Garage_Objects
+  - Car_Button
+  - Hose_Button
+  - Shells_Button
+  - Tub_Vid
+  - Shotgun_Vid
+  - Over_Vid
+  - Car_Vid
+  - Knife_Vid
+  - Fading_Shotgun
+  - Fading_Tub
+  - Fading_Over
+  - Fading_Knife
+  - Fading_Car
+  - Red_Button
+  - CON
+  - Achieve_Ment
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - post
+  - NewCam
+  - New2Cam
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
